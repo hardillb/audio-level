@@ -1,4 +1,4 @@
-var audio = require('../audio-level/build/Release/audio-level');
+var audio = require('../build/Release/audio-level');
 
 function callback(level) {
 	console.log("dB = " + level);
