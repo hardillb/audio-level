@@ -1,0 +1,17 @@
+{
+	"name": "audio-level",
+	"version": "0.1.0",
+	"description", "A node to report average noise levels",
+	"main", "build/Release/audio-level.node",
+	"script" , {
+		"test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+	},
+	"keywords": [
+    "Node.js",
+    "alsa",
+    "sound"
+  ],
+  "author": "hardillb@gmail.com",
+  "license": "Apache",
+  "readmeFilename": "README.md"
+}
